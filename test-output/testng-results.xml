@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31533" started-at="2017-08-10T19:14:07Z" finished-at="2017-08-10T19:14:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31533" started-at="2017-08-10T19:14:07Z" finished-at="2017-08-10T19:14:39Z">
+      <class name="com.globantu.automation.giovanna_urrego.tests.Tests">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.globantu.automation.giovanna_urrego.tests.Tests@7e0babb1]" name="before" is-config="true" duration-ms="7525" started-at="2017-08-10T16:14:07Z" finished-at="2017-08-10T16:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="travelocitySearch()[pri:0, instance:com.globantu.automation.giovanna_urrego.tests.Tests@7e0babb1]" name="travelocitySearch" duration-ms="23992" started-at="2017-08-10T16:14:15Z" finished-at="2017-08-10T16:14:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travelocitySearch -->
+      </class> <!-- com.globantu.automation.giovanna_urrego.tests.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
